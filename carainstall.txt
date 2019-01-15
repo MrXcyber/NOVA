@@ -1,0 +1,26 @@
+Author : Mr.Xcyber
+Blog   : www.xcy3r.zone.id
+Team   : explosion squad cyber
+
+cara install
+
+buka termux 
+ketik 
+
+- pkg update && pkg upgrade 
+
+- pkg install git -y
+
+- pkg install ruby -y
+
+- git clone https://github.com/MrXcyber/NOVA.git
+
+- cd NOVA
+
+- chmod +x nova.sh
+
+- ./nova.sh
+
+
+Itulah Kode Perintahnya ^_^
+Good Luck ^_^
